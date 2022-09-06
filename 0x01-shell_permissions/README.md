@@ -1,12 +1,12 @@
 # Shell, permissions
 
 This is a project done during **ALX Software Engineering Program**.
-It aims to learn about permissions (owner, group and other) of files and directories in **Shell**.
-Commands studied include: `chmod`, `sudo`, `su`, `chown`, `chgrp`, `id`, `groups`, `whoami`, `adduser`, `useradd` and `addgroup` 
+* It aims to learn about permissions (owner, group and other) of files and directories in **Shell**.
+* Commands studied include: `chmod`, `sudo`, `su`, `chown`, `chgrp`, `id`, `groups`, `whoami`, `adduser`, `useradd` and `addgroup` 
 
 ## Technologies
-Scripts were written in Bash, version 5.0.17(1)-release.
-Tested on Ubuntu 20.04 LTS.
+* Scripts were written in Bash, version 5.0.17(1)-release.
+* Tested on Ubuntu 20.04 LTS.
 
 ## Files
 All of the following files are _shell_ scripts:
