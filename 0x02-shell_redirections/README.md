@@ -10,7 +10,7 @@ This is an ALX Software Engineering Project done to learn about the following:
 
 ## Technologies
 Scripts were written in Bash, version 5.0.17(1)-release.
-Tested on Ubuntu 20.04 LTS
+Tested on Ubuntu 20.04 LTS.
 All of the following files are _executable_ scripts:
 
 | Filename | Description |
