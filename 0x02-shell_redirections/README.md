@@ -9,8 +9,8 @@ This is a project done during **ALX Software Engineering Program** to learn abou
 * Understand when and how to use _white spaces_, _single quotes_, _double quotes_, _backslash_, _comment_, _pipe_, _command separator_, _tilde_ etc. 
 
 ## Technologies
-Scripts were written in Bash, version 5.0.17(1)-release.
-Tested on Ubuntu 20.04 LTS.
+* Scripts were written in Bash, version 5.0.17(1)-release.
+* Tested on Ubuntu 20.04 LTS.
 
 ## Files
 All of the following files are _shell_ scripts:
