@@ -1,17 +1,19 @@
 # Shell, I/O Redirections and filters
 
-This is an ALX Software Engineering Project done to learn about the following: 
-1. What the commands `echo`,`cat`, `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr`, `rev` and `cut` do
-2. How to redirect standard output to a file
-3. How to get standard input from a file instead of the keyboard
-4. How to send the output from one program to the input of another program
-5. How to combine commands and filters with redirections
-6. Understand when and how to use _white spaces_, _single quotes_, _double quotes_, _backslash_, _comment_, _pipe_, _command separator_, _tilde_ etc. 
+This is a project done during **ALX Software Engineering Program** to learn about the following: 
+* What the commands `echo`,`cat`, `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr`, `rev` and `cut` do
+* How to redirect standard output to a file
+* How to get standard input from a file instead of the keyboard
+* How to send the output from one program to the input of another program
+* How to combine commands and filters with redirections
+* Understand when and how to use _white spaces_, _single quotes_, _double quotes_, _backslash_, _comment_, _pipe_, _command separator_, _tilde_ etc. 
 
 ## Technologies
 Scripts were written in Bash, version 5.0.17(1)-release.
 Tested on Ubuntu 20.04 LTS.
-All of the following files are _executable_ scripts:
+
+## Files
+All of the following files are _shell_ scripts:
 
 | Filename | Description |
 | -------- | ----------- |
