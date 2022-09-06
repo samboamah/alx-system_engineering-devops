@@ -13,9 +13,9 @@ Scripts are written in Bash, version 5.0.17(1)-release
 Tested on Ubuntu 20.04 LTS
 All the files below are executable scripts:
 
-## Filename	               # Description
-0-hello_world	              Prints "Hello, World", followed by a new line to the standard output
-1-confused_smiley	          Displays a confused smiley "(Ôo)'
+## Filename	                Description
+0-hello_world	              # Prints "Hello, World", followed by a new line to the standard output
+1-confused_smiley	          # Displays a confused smiley "(Ôo)'
 2-hellofile	                Displays the content of the /etc/passwd file
 3-twofiles	                Displays the content of /etc/passwd and /etc/hosts
 4-lastlines	                Displays the last 10 lines of /etc/passwd
