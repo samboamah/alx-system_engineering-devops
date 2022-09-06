@@ -1,8 +1,8 @@
 # Shell, Basics
 
 This is a project done during **ALX Software Engineering Program**.
-It aims to learn about basic commands, navigation and manipulating files and directories in **Shell**.
-Commands studied include: `cd`, `ls`, `pwd`, `less`, `file`, `ln`, `cp`, `mv`, `rm`, `mkdir`, `type`, `which`, `help`, `man` etc. 
+* It aims to learn about basic commands, navigation and manipulating files and directories in **Shell**.
+* Commands studied include: `cd`, `ls`, `pwd`, `less`, `file`, `ln`, `cp`, `mv`, `rm`, `mkdir`, `type`, `which`, `help`, `man` etc. 
 
 ## Technologies
 * Scripts were written in Bash, version 5.0.17(1)-release.
