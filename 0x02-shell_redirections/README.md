@@ -1,16 +1,16 @@
 # Shell, I/O Redirections and filters
 
-A Project done at ALX Software Engineering ALX to learn about: 
+A Project done at ALX Software Engineering to learn about: 
 What the commands echo, cat, head, tail, find, wc, sort, uniq, grep, tr, rev, cut do
 How to redirect standard output to a file
 How to get standard input from a file instead of the keyboard
 How to send the output from one program to the input of another program
 How to combine commands and filters with redirections
 
-Technologies
-Scripts written in Bash, version 5.0.17(1)-release
+## Technologies
+Scripts are written in Bash, version 5.0.17(1)-release
 Tested on Ubuntu 20.04 LTS
-All of the following files are executable scripts:
+All the files below are executable scripts:
 
 ## Filename	                Description
 0-hello_world	              Prints "Hello, World", followed by a new line to the standard output
