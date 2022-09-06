@@ -13,7 +13,7 @@ Scripts were written in Bash, version 5.0.17(1)-release.
 Tested on Ubuntu 20.04 LTS
 All of the following files are _executable_ scripts:
 
-## | Filename | Description |
+| Filename | Description |
 | -------- | ----------- |
 | `0-hello_world` | Prints "Hello, World", followed by a new line to the standard output |
 | `1-confused_smiley` | Displays a confused smiley `"(Ôo)'` |
