@@ -5,7 +5,7 @@ Module of **System engineering and Devops**, carried out during **Full Stack Sof
 * Scripts were written in Bash, version 5.0.17(1)-release.
 * Tested on Ubuntu 20.04 LTS.
 
-# Projects
+## Projects
 All of the following folders are projects done during the studies:
 
 | Project name | Description |
