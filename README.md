@@ -1,13 +1,12 @@
-#System engineering & Devops
+# System engineering & Devops
 Module of **System engineering and Devops**, carried out during **Full Stack Software Engineering** studies at **[ALX Software Engineering Program](https://www.alxafrica.com)**
 
-##Technologies
+## Technologies
 * Scripts were written in Bash, version 5.0.17(1)-release.
 * Tested on Ubuntu 20.04 LTS.
 
-#Projects
+# Projects
 All of the following folders are projects done during the studies:
-
 
 | Project name | Description |
 | ------------ | ----------- |
